@@ -2,10 +2,10 @@ theme: minima
 minima:
   skin: dark
 
-title: Ab
-author: ab-emptycup
+title: Who
+author: master-who
 description: ""
-email: ab@emptycup.in
+email: who@emptycup.in
 
 header_pages:
   - index.md
