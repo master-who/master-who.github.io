@@ -16,6 +16,7 @@ I have till 6pm today which is 8.5 hours from now. The goal today is to build so
 
 
 __Round 1:__ Structured the plan a little.
+
 __Round 2:__ Started breaking down the objectives into tasks.
 
 
