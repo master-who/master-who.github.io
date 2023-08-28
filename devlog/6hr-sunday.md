@@ -6,11 +6,17 @@ title: 6 Hour Sunday
 ## 6 Hour Sunday
 <br>
 
+### Hour 6:
+
+YouTube
+
+### Hour 5:
+
+Meditated
 
 ### Hour 4:
 
-
-
+Slept
 
 ### Hour 3:
 
