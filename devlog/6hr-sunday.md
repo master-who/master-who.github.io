@@ -7,9 +7,32 @@ title: 6 Hour Sunday
 <br>
 
 
+### Hour 4:
+
+
+
+
 ### Hour 3:
 
+Coming back to the challenge of finding an accountant.
 
+_What do we want from the accountant?_
+
+1. Conduct an internal audit of our books.
+2. Setup processes to ensure compliance.
+3. Consult on automating recurring accounting work.
+
+_Our expectations:_
+
+They should have enough time in the beginning to conduct the audit in a thorough manner.
+
+They should have a strong foundation in accounting to be able to design an internet startup's internal processes.
+
+They should have a clear understanding of Indian corporate law to assess compliance along with practical wisdom of an experienced accountant.
+
+They should have some experience in corporate management to consult on automation ideas for accounting & compliance.
+
+We are looking for mentors / advisors / investors who can help out with this out of passion. We are open to working with smart students or freshers who are looking to build a strong portfolio. Join the brotherhood.
 
 ---
 <br>
