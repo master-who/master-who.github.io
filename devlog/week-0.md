@@ -21,4 +21,10 @@ __Round 2:__ Started breaking down the objectives into tasks.
 
 
 _I feel like I have some weaknesses and insecurities rooted in those weaknesses that are clouding my imagination. For example: Introversion is one of my weaknesses that fosters an insecurity about the reach of my personal network. I'm guessing there are more such weaknesses and I want to spend a round identifying them and brainstorming fixes._
+    
+> Spend a round on executional weaknesses.
+
+__Round 3:__ 
+  - Added "About EmptyCup" page on [hq](https://emptycuphq.github.io)
+  - Referenced [caring for creativity]()
 
